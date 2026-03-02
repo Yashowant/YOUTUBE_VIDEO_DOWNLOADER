@@ -27,8 +27,8 @@ This tool allows you to download YouTube videos (including Shorts) directly to y
 ### 1️⃣ Clone or Download the Project
 
 ```bash
-git clone <your-repo-url>
-cd ytvideodownloader
+git clone https://github.com/Yashowant/YOUTUBE_VIDEO_DOWNLOADER.git
+cd YOUTUBE_VIDEO_DOWNLOADER
 ```
 
 Or just download and extract the folder.
